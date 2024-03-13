@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: WeaponIcons
+  m_EditorClassIdentifier: 
+  m_GroupName: WeaponIcons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 48baf8680f2fba94688dfebad58e0306
+  m_SerializeEntries:
+  - m_GUID: 78c2c83a351297342865cba8ee4a9f40
+    m_Address: Assets/Sprites/WeaponIcons/icon_axe1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: b17f40c6b97bcc6459db936daa9ae58f
+    m_Address: Assets/Sprites/WeaponIcons/icon_axe2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 61a7dd544d3be164aac7c3febe28eb1b
+    m_Address: Assets/Sprites/WeaponIcons/icon_axe3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: b6aeb579a17bbd24d85deed128724ebc
+    m_Address: Assets/Sprites/WeaponIcons/icon_bigclub1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 8726c5b3113e33c4a9f9006b8ec017e7
+    m_Address: Assets/Sprites/WeaponIcons/icon_bigclub2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 72cc2bb84366f964390cf05642339bc0
+    m_Address: Assets/Sprites/WeaponIcons/icon_bigclub3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 85a94d51acdfc4c41b7d31d531d87f9e
+    m_Address: Assets/Sprites/WeaponIcons/icon_Bow1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: d1b20da46acd8744fa65c613dd67ad8d
+    m_Address: Assets/Sprites/WeaponIcons/icon_Bow2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 68f6e733a46b60844a64601926252b8a
+    m_Address: Assets/Sprites/WeaponIcons/icon_Bow3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 25a77edff08e14d418ae170779713aa9
+    m_Address: Assets/Sprites/WeaponIcons/icon_claw1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 81e36cd57e02eef44a018e96e2eefcbd
+    m_Address: Assets/Sprites/WeaponIcons/icon_claw2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 58ea830b53779704e8521668d4f6f462
+    m_Address: Assets/Sprites/WeaponIcons/icon_claw3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 0eb701349080236409b8021e309e0e84
+    m_Address: Assets/Sprites/WeaponIcons/icon_dagger1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 949ae9cf60736da4ababf68b3356dfd5
+    m_Address: Assets/Sprites/WeaponIcons/icon_dagger2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 52720374a0d1a43458d19653b28e4040
+    m_Address: Assets/Sprites/WeaponIcons/icon_dagger3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 23a036b7dcb1d5e40bf4fee4c199e25c
+    m_Address: Assets/Sprites/WeaponIcons/icon_halberd1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: b370c8dcdba4c234594d8f0a5676ff07
+    m_Address: Assets/Sprites/WeaponIcons/icon_halberd2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: d365707d93f35c441b83ef70c18def71
+    m_Address: Assets/Sprites/WeaponIcons/icon_halberd3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 24f1c57790d9e5e45af0377da0b5ceaa
+    m_Address: Assets/Sprites/WeaponIcons/ICON_hammer1.png.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: d94dc4c8d7deefb4ea2de1088da72a0b
+    m_Address: Assets/Sprites/WeaponIcons/icon_hammer2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 277e4b1461290984d8ba11cea9851d2b
+    m_Address: Assets/Sprites/WeaponIcons/icon_hammer3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 9fae658353d38f140ba1b8538bbf2e91
+    m_Address: Assets/Sprites/WeaponIcons/icon_spear1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 50a597e178ce298469684b50396deb7b
+    m_Address: Assets/Sprites/WeaponIcons/icon_spear2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 54925e88dfa71fc44a72ee4a47c54fcf
+    m_Address: Assets/Sprites/WeaponIcons/icon_spear3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: a6ecf47b10e1e3a4ca12ba039be2aaef
+    m_Address: Assets/Sprites/WeaponIcons/icon_staff1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 627fe05e8f2168b4283ac58c0949d872
+    m_Address: Assets/Sprites/WeaponIcons/icon_staff2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 5b100d814ec727047a094efa62f05c2e
+    m_Address: Assets/Sprites/WeaponIcons/icon_staff3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 04817a5ccbe36e6468d7b27c9edaea2f
+    m_Address: Assets/Sprites/WeaponIcons/icon_sword_long1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: e62c3d2c03bf8fa4ba765bd610688078
+    m_Address: Assets/Sprites/WeaponIcons/icon_sword_long2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 1fa9cc2f7bbc5f842879789121d96698
+    m_Address: Assets/Sprites/WeaponIcons/icon_sword_long3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: b09ff6a2d5563174fbe287a5bbd2d54d
+    m_Address: Assets/Sprites/WeaponIcons/icon_sword_long4.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 8dc6bd83895532f4ca80fd0174b5e1c7
+    m_Address: Assets/Sprites/WeaponIcons/icon_sword_short1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: faa26472cfa43bb4ca63f909c675673a
+    m_Address: Assets/Sprites/WeaponIcons/icon_sword_short2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 91fe095b62d5b194ba5574dcda168e49
+    m_Address: Assets/Sprites/WeaponIcons/icon_sword_short3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: d0a76c0e70d83024ab727f33189d704b
+    m_Address: Assets/Sprites/WeaponIcons/icon_XBow1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: ee51aaa1838d09f4db9a8d56ccccd9b9
+    m_Address: Assets/Sprites/WeaponIcons/icon_XBow2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  - m_GUID: 504290a37ec0ad14b9aaeb07bf4e89ee
+    m_Address: Assets/Sprites/WeaponIcons/icon_XBow3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weaponIcons
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 563bd0fb89e499f4b896adbec3ac8c22, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 553cedd145a40794e80a440a6379be73, type: 2}
+    - {fileID: 11400000, guid: 71d251ed25f6f314fb8809d81a4bfd74, type: 2}
